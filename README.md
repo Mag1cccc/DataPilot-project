@@ -1,6 +1,6 @@
 This project is a landing page for DataPilot, a platform designed for data analysis, visualization, and real-time reporting.
 
-**Live Demo:** [View Live on Netlify](YOUR_NETLIFY_LINK_HERE)
+**Live Demo:** [View Live on Netlify](https://cool-concha-c8b00b.netlify.app/)
 
 ## Features
 
